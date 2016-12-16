@@ -1,6 +1,4 @@
 # chess
 creating a java chess game
-a test
-
-trying to pull test
-trying to push test
+to learn how to use ItelliJ IDEA
+    figured out how to use git with this√
